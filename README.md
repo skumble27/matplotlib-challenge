@@ -24,6 +24,20 @@ Due to the presence of duplicate data within the set, the mouse with the ID of g
 
 Of all the drugs assessed in this study, Capomulin appears to have the lowest mean tumour volume compared to all other drugs assessed in this study. 
 
+![Bar Graph](https://raw.githubusercontent.com/skumble27/matplotlib-challenge/master/Pymaceuticals/Images/3Bar_chart_pyplot.png)
+
+###### Figure 1: Number of mice used for the assessment of each drug as well as the placebo.
+
+
+
+![Pie Chart Gender Distribution](https://raw.githubusercontent.com/skumble27/matplotlib-challenge/master/Pymaceuticals/Images/5Pie_Chart_Pyplot.png)
+
+###### Figure 2: Mouse gender distribution across the entire study.
+
+
+
+![Drug Efficacy summary](https://raw.githubusercontent.com/skumble27/matplotlib-challenge/master/Pymaceuticals/Images/6Drug_efficacy_summary.png)
+
 
 
 
