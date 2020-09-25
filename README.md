@@ -46,6 +46,14 @@ Of all the drugs assessed in this study, Capomulin appears to have the lowest me
 
 
 
+![Weight vs Volume](https://raw.githubusercontent.com/skumble27/matplotlib-challenge/master/Pymaceuticals/Images/8mouse_weightvs_tumor_vol.png)
+
+###### Figure 8: Mouse Weight vs Tumor Volume.
+
+![Weight vs Tumor Volume Regression](https://raw.githubusercontent.com/skumble27/matplotlib-challenge/master/Pymaceuticals/Images/9mouse_weightvs_tumor_vol.png)
+
+
+
 ### General Discussion
 
  
