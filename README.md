@@ -32,11 +32,23 @@ Of all the drugs assessed in this study, Capomulin appears to have the lowest me
 
 ![Pie Chart Gender Distribution](https://raw.githubusercontent.com/skumble27/matplotlib-challenge/master/Pymaceuticals/Images/5Pie_Chart_Pyplot.png)
 
-###### Figure 2: Mouse gender distribution across the entire study.
+###### Figure 2: Mouse gender distribution across the entire study. Amongst the 248 mice that were assessed, approximately 50% of the mice were female whilst the remainder were male.
 
 
 
 ![Drug Efficacy summary](https://raw.githubusercontent.com/skumble27/matplotlib-challenge/master/Pymaceuticals/Images/6Drug_efficacy_summary.png)
+
+###### Figure 6: Drug efficacy against mouse models of squamous cell carcinoma.
+
+![Capomulin Treatment for Mouse s185](https://raw.githubusercontent.com/skumble27/matplotlib-challenge/master/Pymaceuticals/Images/7capomulin_treatment.png)
+
+###### Figure 7: Tumor regression in Mouse s185 when treated with capomulin over a period of 45 days.
+
+
+
+### General Discussion
+
+ 
 
 
 
